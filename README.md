@@ -5,7 +5,7 @@ dsadm@ESN501D1201986 MINGW64 ~
 $ git config --global user.name "Akil23-alt"
 
 dsadm@ESN501D1201986 MINGW64 ~
-$ git config --global user.email "kauaakil23@gmail.com"
+$ git config --global user.email "*******.com"
 
 dsadm@ESN501D1201986 MINGW64 ~
 $ mkdir smpm-api
